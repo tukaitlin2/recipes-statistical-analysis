@@ -1,4 +1,4 @@
-# Recipes Statistical Analysis
+**By [Your Name]**
 
 ## Introduction
 
@@ -14,10 +14,6 @@
 
 ## Assessment of Missingness
 
-### NMAR Analysis
-
-### Missingness Dependency
-
 ## Hypothesis Testing
 
 ## Framing a Prediction Problem
@@ -27,4 +23,3 @@
 ## Final Model
 
 ## Fairness Analysis
-
