@@ -1,4 +1,4 @@
-**By [Your Name]**
+**By Kaitlin Tu**
 
 ## Introduction
 
